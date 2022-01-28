@@ -1,7 +1,7 @@
 - 👋 Hi, I’m varya, php developer from ukraine
 - 👀 I’m interested in php, metal and games
 - 🌱 I’m currently working on plant shop system
-- 💞️ I have twitch acc, but still gaining courage to stream
+- 💞️ I have <a target="_blank" href="https://www.twitch.tv/void_sister1">twitch acc</a>, live coding each weekend at 10am (utc+2)
 - 📫 twitter: <a target="_blank" href="https://twitter.com/VoidSister">@VoidSister</a>
 
 <!---
